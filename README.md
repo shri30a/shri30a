@@ -5,10 +5,10 @@ I'm an Electrical and Computer Engineering Honors and Mathematics student at The
 ## Technical Skills
 
 **Languages:** Python, Java, C++, C, SQL, JavaScript, TypeScript  
-**AI/ML:** PyTorch, TensorFlow, scikit-learn, Hugging Face, NLP, RAG, Computer Vision  
-**Data/Cloud:** Databricks, Spark, Delta Lake, AWS, SQL, Power BI, Tableau  
-**Tools:** Git, GitHub, Docker, Linux, Bash, Jupyter, Streamlit, REST APIs  
-**Hardware/Systems:** Microcontrollers, FPGA, Verilog, LTspice, ADCs/DACs, UART, GPIO  
+**AI/ML:** PyTorch, TensorFlow, scikit-learn, Transformers, Hugging Face, NLP, RAG, Computer Vision, OpenCV  
+**Data & Cloud:** Databricks, Apache Spark, Delta Lake, AWS  
+**Software & Tools:** Git, GitHub, Docker, Linux, Bash, Jupyter, Streamlit, Flask, RESTful APIs  
+**Hardware & Systems:** Microcontrollers, FPGA, Verilog, LTspice, ADCs/DACs, UART, GPIO
 
 ## Featured Projects
 

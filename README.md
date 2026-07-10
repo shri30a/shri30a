@@ -12,6 +12,16 @@ I'm an Electrical and Computer Engineering Honors and Mathematics student at The
 
 ## Featured Projects
 
+### LonghornAI
+AI-powered campus assistant for UT Austin that combines a modern Next.js frontend, FastAPI backend, and LLM integration to help students navigate courses, campus resources, organizations, events, and student life.
+
+**Tech:** Next.js, TypeScript, Tailwind CSS, FastAPI, Python, Gemini API, ChromaDB, PostgreSQL, Docker  
+**Impact:** Demonstrates full-stack AI application development, modern frontend engineering, backend API design, cloud deployment, and a scalable foundation for Retrieval-Augmented Generation (RAG).
+
+[View Repository](https://github.com/shri30a/LonghornAI)
+
+---
+
 ### SentinelAI
 AI security analyst copilot that helps investigate simulated phishing and security events using retrieval-augmented generation, threat context, and structured incident reporting.
 
@@ -32,16 +42,6 @@ Generative AI proof-of-concept that analyzes clinical documents, extracts key me
 
 ---
 
-### PantryAI
-AI-powered smart cooking assistant that uses computer vision and retrieval-based recommendations to suggest recipes from available ingredients.
-
-**Tech:** Python, Computer Vision, Embeddings, RAG  
-**Impact:** Shows practical use of multimodal AI for personalized consumer applications.
-
-[View Repository](https://github.com/shri30a/PantryAI)
-
----
-
 ### Financial Named Entity Recognition with Transformers
 Transformer-based NLP system for identifying financial entities such as organizations, people, and locations from financial text.
 
@@ -50,12 +50,22 @@ Transformer-based NLP system for identifying financial entities such as organiza
 
 [View Repository](https://github.com/shri30a/financial-ner-transformer)
 
+---
+
+### PantryAI
+AI-powered smart cooking assistant that uses computer vision and retrieval-based recommendations to suggest recipes from available ingredients.
+
+**Tech:** Python, Computer Vision, Embeddings, RAG  
+**Impact:** Shows practical use of multimodal AI for personalized consumer applications.
+
+[View Repository](https://github.com/shri30a/PantryAI)
+
 ## Results & Impact
 
-- Built AI and software projects across healthcare, finance, embedded systems, and consumer applications.
-- Developed experience with machine learning, NLP, RAG, computer vision, data pipelines, and dashboarding.
-- Applied technical work to real-world problems involving clinical documentation, financial text, agriculture, and automation.
-- Strengthened full project lifecycle skills, including research, development, testing, documentation, presentation, and deployment.
+- Built AI and software projects across healthcare, finance, education, cybersecurity, embedded systems, and consumer applications.
+- Developed experience with machine learning, NLP, RAG, computer vision, full-stack web development, data pipelines, and dashboarding.
+- Applied technical work to real-world problems involving clinical documentation, financial text, campus navigation, agriculture, and automation.
+- Strengthened full project lifecycle skills, including research, development, testing, documentation, presentation, deployment, and full-stack engineering.
 
 ## Current Interests
 
